@@ -1,3 +1,0 @@
-Username: abcdefgh
-Last Name: aaaa
-First Name: bbbb
